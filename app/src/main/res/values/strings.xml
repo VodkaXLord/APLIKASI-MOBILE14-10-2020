@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="text_one">text one</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_two">text two</string>
+    <string name="text_three">text three</string>
+    <string name="pemograman">pemograman</string>
+    <string name="sejarah_pemrograman">Alexander Graham Bell</string>
+    <string name="artikel">
+        <b>Alexander Graham Bell </b>
+        Alexander Graham Bell lahir di Edinburgh , Skotlandia, pada tanggal 3 Maret 1847. [13] Rumah keluarganya berada di South Charlotte Street, dan memiliki prasasti batu yang menandainya sebagai tempat kelahiran Alexander Graham Bell. Dia memiliki dua saudara laki-laki: Melville James Bell (1845–1870) dan Edward Charles Bell (1848–1867), keduanya meninggal karena tuberkulosis .</string>
+    <string name="head2">Pemrograman</string>
+    <string name="subhead2">Antonio Meucci</string>
+    <string name="artikel2">
+        <b>Antonio Meucci</b>
+        Antonio Santi Giuseppe Meucci (lahir di Firenze, Kerajaan Etruria, 13 April 1808 – meninggal di Pulau Staten, New York, Amerika Serikat, 18 Oktober 1889 pada umur 81 tahun) adalah seorang penemu berkebangsaan Italia yang penemuannya merupakan alat komunikasi modern yang sangat dibutuhkan oleh masyarakat sekarang ini untuk kehidupan sosial yaitu telepon.
+        Umumnya penemu telepon yang lebih dikenal masyarakat adalah Alexander Graham Bell, tetapi sepertinya sejarah harus ditulis ulang karena adalah seorang imigran dari Firenze, Kerajaan Italia yang bernama Antonio Meucci yang telah menciptakan telepon pada tahun 1849 dan mematenkan hasil karyanya pada tahun 1871.
+</string>
+    <string name="head3">Pemrograman</string>
+    <string name="subhead3">Peter Henlein</string>
+    <string name="isi3"><b>Peter Henlein</b>\n
+Peter Henlein (juga dinamai Henle atau Helen)  (1485 - Agustus 1542), seorang tukang kunci dan pembuat jam dari Nuremberg , Jerman adalah penemu jam tangan pertama di dunia  Ia adalah pengrajin pertama yang membuat jam tangan hias kecil yang sering dipakai sebagai liontin atau ditempelkan pada pakaian, yang dikenal sebagai jam tangan pomander , yang dianggap sebagai jam tangan pertama dalam sejarah ketepatan waktu .</string>
+</resources>
